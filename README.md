@@ -1,2 +1,4 @@
 # gh.hyouhyan.com
-ブログを書いてみようと思ったり思わなかったり
+GitHub用ドメイン
+
+hyouhyan.github.io --301--> gh.hyouhyan.com
