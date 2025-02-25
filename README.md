@@ -1,2 +1,2 @@
-# gh.hyouhyan.com
-GitHub用ドメイン
+# hyouhyan.github.io
+GitHubPages用ドメイン
